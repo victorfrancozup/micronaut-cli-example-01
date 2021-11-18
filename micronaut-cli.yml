@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: mc.cli.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gradle, junit, kotlin, logback, picocli, picocli-junit, picocli-kotlin-application, readme, shade, yaml]
